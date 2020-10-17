@@ -1,4 +1,4 @@
-[debug] [playapi-build] Classpath dependencies List()
-[debug] [playapi-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'playapi-build' to 'C:\Users\Branimir\Desktop\CodeVibe\Scala 3\PlayApi\project\.bloop\playapi-build.json'
-[success] Generated .bloop\playapi-build.json
+[0m[[0m[0mdebug[0m] [0m[0m[playapi-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[playapi-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'playapi-build' to 'C:\Users\Branimir\Desktop\Scala 3\PlayApi\project\.bloop\playapi-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop\playapi-build.json[0m

@@ -2,14 +2,14 @@
     "version": "1.4.0",
     "project": {
         "name": "playapi-build",
-        "directory": "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project",
-        "workspaceDir": "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project",
+        "directory": "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project",
+        "workspaceDir": "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project",
         "sources": [
-            "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\src\\main\\scala-2.12",
-            "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\src\\main\\scala",
-            "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\src\\main\\java",
-            "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\src\\main\\scala-sbt-1.0",
-            "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
+            "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\src\\main\\scala-2.12",
+            "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\src\\main\\scala",
+            "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\src\\main\\java",
+            "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\src\\main\\scala-sbt-1.0",
+            "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
         ],
         "dependencies": [
             
@@ -175,11 +175,11 @@
             "C:\\Users\\Branimir\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\lihaoyi\\fastparse-utils_2.12\\0.4.2\\fastparse-utils_2.12-0.4.2.jar",
             "C:\\Users\\Branimir\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\lihaoyi\\sourcecode_2.12\\0.1.3\\sourcecode_2.12-0.1.3.jar"
         ],
-        "out": "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\.bloop\\playapi-build",
-        "classesDir": "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\.bloop\\playapi-build\\scala-2.12\\sbt-1.0\\classes",
+        "out": "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\.bloop\\playapi-build",
+        "classesDir": "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\.bloop\\playapi-build\\scala-2.12\\sbt-1.0\\classes",
         "resources": [
-            "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\src\\main\\resources",
-            "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
+            "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\src\\main\\resources",
+            "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -196,7 +196,7 @@
                 "C:\\Users\\Branimir\\.sbt\\boot\\scala-2.12.10\\lib\\scala-reflect.jar",
                 "C:\\Users\\Branimir\\.sbt\\boot\\scala-2.12.10\\lib\\scala-xml_2.12.jar"
             ],
-            "analysis": "C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project\\target\\streams\\compile\\bloopAnalysisOut\\_global\\streams\\inc_compile_2.12.zip",
+            "analysis": "C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project\\target\\streams\\compile\\bloopAnalysisOut\\_global\\streams\\inc_compile_2.12.zip",
             "setup": {
                 "order": "mixed",
                 "addLibraryToBootClasspath": true,
@@ -264,9 +264,9 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "C:\\Progra~1\\Java\\jdk-11.0.8",
+                "home": "C:\\Program Files\\Java\\jdk-11.0.8",
                 "options": [
-                    "-Duser.dir=C:\\Users\\Branimir\\Desktop\\CodeVibe\\Scala 3\\PlayApi\\project"
+                    "-Duser.dir=C:\\Users\\Branimir\\Desktop\\Scala 3\\PlayApi\\project"
                 ]
             },
             "mainClass": [

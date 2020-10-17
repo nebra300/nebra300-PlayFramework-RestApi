@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:C:/Users/Branimir/Desktop/CodeVibe/Scala 3/PlayApi/conf/routes
-// @DATE:Sat Oct 17 14:30:09 CEST 2020
+// @SOURCE:C:/Users/Branimir/Desktop/Scala 3/PlayApi/conf/routes
+// @DATE:Sat Oct 17 17:20:53 CEST 2020
 
 
 package router {
